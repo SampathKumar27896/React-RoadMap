@@ -1,3 +1,3 @@
-# React-RoadMap
+# ReactJS-RoadMap
 
 A road map to learn react JS
